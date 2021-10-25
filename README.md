@@ -3,7 +3,7 @@ iOS app to fetch film & starships data from the Star Wars API - SWAPI
 
 
 ### Architecture
-![Image](https://github.com/daveh07/SWAPI/blob/main/diagram.png)
+![Image](https://github.com/daveh07/SWAPI-V2.0/blob/main/MVVPDiagram.png)
 
 
 ### Setup
